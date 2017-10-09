@@ -1,0 +1,38 @@
+{
+  "name": "hw-js-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "del": "^3.0.0",
+    "gulp-install": "^1.1.0",
+    "gulp-less": "^3.3.2",
+    "uglyfly-js": "^3.2.2"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.0",
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.9.5",
+    "jshint-stylish": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnylytsya/HW-JS-Tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnylytsya/HW-JS-Tools/issues"
+  },
+  "homepage": "https://github.com/gnylytsya/HW-JS-Tools#readme"
+}
